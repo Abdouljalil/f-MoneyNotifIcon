@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487125486127",
+    "project_id": "mes-projets-659b7",
+    "storage_bucket": "mes-projets-659b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487125486127:android:91056d225083ffa21814da",
+        "android_client_info": {
+          "package_name": "com.example.monresto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0xZOBdvBjB8xD3liADCGR4Vvj4YGpnlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
